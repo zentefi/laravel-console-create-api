@@ -1,0 +1,24 @@
+{
+    "name": "zentefi/console-create-api",
+    "description": "Create Api (Service Layer) for a given table",
+    "license": "gnu",
+    "authors": [
+        {
+            "name": "julito0208",
+            "email": "julito0208@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+      "laravel": {
+        "providers": [
+          "zentefi\\console-create-api\\ZentefiConsoleCreateApiProvider"
+        ]
+      }
+    },
+    "autoload": {
+      "psr-4": {
+        "zentefi\\console-create-api\\": "src/"
+      }
+    }
+}
