@@ -9,13 +9,6 @@
         }
     ],
     "require": {},
-    "extra": {
-      "laravel": {
-        "providers": [
-          "zentefi\\console-create-api\\ZentefiConsoleCreateApiProvider"
-        ]
-      }
-    },
     "autoload": {
       "files": {
       	[
