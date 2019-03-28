@@ -1,6 +1,7 @@
 {
     "name": "zentefi/console-create-api",
     "description": "Create Api (Service Layer) for a given table",
+    "license": "MIT",
     "authors": [
         {
             "name": "julito0208",
