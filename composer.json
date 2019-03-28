@@ -17,11 +17,11 @@
       }
     },
     "autoload": {
-      "files": {
+      "files": 
       	[
 			"src/ZentefiConsoleCreateApiProvider.php",
 			"src/ApiCreateCommand.php"
 	]
-	
     }
+    
 }
